@@ -1,0 +1,6 @@
+class TopRestaurants::Scraper
+  
+  
+  
+  
+end

@@ -1,0 +1,4 @@
+class TopRestaurants::Restaurant
+  
+  
+end
