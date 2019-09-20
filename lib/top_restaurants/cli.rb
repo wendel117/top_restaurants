@@ -13,13 +13,9 @@ class TopRestaurants::CLI
   end
   
   def list_restaurants
-    @top_restaurants = TopRestaurants::Restaurant.all
-    @top_restaurants.each.with_index(1) do |restaurant, i|
-      puts "#{i}. #{restaurant.name}"
   end
   
   def menu
-    
   end
   
   def goodbye
